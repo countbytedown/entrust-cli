@@ -1,5 +1,5 @@
 {
-  "name": "linearsoft/entrust-cli",
+  "name": "linearsoft/entrust-cli-dev",
   "description": "Provides a console interface to Entrust for Laravel",
   "keywords": ["laravel","entrust","auth","roles","acl","permission","console","cli"],
   "homepage": "https://github.com/LinearSoft/entrust-cli",
